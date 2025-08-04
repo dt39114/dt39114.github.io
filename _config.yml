@@ -135,7 +135,7 @@ keywords: "TPM,Project Management,Leadership, System Design"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
+page-col: "#F2F2F2"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
