@@ -22,4 +22,8 @@ After spending 6+ years at Amazon I joined Pirmal Finance Limited, a public list
 ### My Objective
 I want to share my personal experiences that I gained over years, to help people become more successful in theie role, guide to become successful Technical Program Managers, People Leader and make the earth a better place to live in my own nimble way.  
 
+### Hobbies
+Scuba diving, travelling, trying out new cuisines, Gardening, meditation. 
+
+
 
