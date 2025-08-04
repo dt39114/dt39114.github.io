@@ -52,20 +52,20 @@ round-avatar: true
 social-network-links:
   email: "dhrubajyotitalukdar@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: daattali
+  github: dt39114
   twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  #patreon: DeanAttali
+  #youtube: "@daattali"
+  whatsapp: 9886520280
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: dhrubat
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: 91-9886520280
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -93,7 +93,7 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
   vk: false
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+#url-pretty: "MyWebsite.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -127,7 +127,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "TPM,Project Management,Leadership, System Design"
 
 ######################################
 # --- Colours / background image --- #
