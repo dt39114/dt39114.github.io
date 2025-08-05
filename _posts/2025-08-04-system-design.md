@@ -82,3 +82,11 @@ Clients send messages to a broker (e.g., Kafka, RabbitMQ)
 Other systems process messages asynchronously
 Supports retries, buffering, durability
 🔧 Use for: Order processing, logs, audit trails, microservice coordination.
+
+## 📚 Must-Know Tools & Standards
+Category 	|Examples
+API Docs	|OpenAPI (Swagger), GraphQL SDL
+Security	|HTTPS, JWT, OAuth2, mTLS
+Monitoring	|Prometheus, Grafana, AWS CloudWatch
+Messaging	|Kafka, RabbitMQ, AWS SNS/SQS
+Protocols	|HTTP/2, WebSocket, gRPC, Protobuf
