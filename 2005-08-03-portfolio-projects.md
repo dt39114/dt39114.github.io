@@ -24,6 +24,7 @@ Project duration: 9 months_
 **Closure:** Facilitated final UAT sign-off and production deployment. Conducted retrospectives and documented lessons learned. Managed decommissioning of the Salesforce system and data archival. Delivered final performance report to stakeholders and ensured operational handover and training to business users.     
 
 **Outcome:** Successfully delivered the Piramal Mitra platform within 3 months, enabling 15K+ active monthly users and generating ~$137M in incremental revenue. Key outcomes included a 60% reduction in partner onboarding time, 55% faster payout processing, 75% fewer support tickets, and an 88% decrease in lead-to-login duration. The initiative resulted in an annual recurring cost savings of ~$1.8M through decommissioning of the third-party software and license fees.    
+
 # Project Name: Customer Retention Web Application  
 _Organization : Piramal Finance Limited  
 Job Title: Technical Program Manager 3  
@@ -113,23 +114,16 @@ Approach/Methodology: Agile
 Project Team Sizes: 8  
 Project Budget:   $1M- $5M  
 Project duration: 6 months_  
+
 ## **Project Description**  
 **Objective:** The objective of the project was to integrate three additional third-party logistics carriers to enhance PIN code coverage for the customer return leg of self-ship (MFN) orders. The key business goals were to improve the customer return experience through capabilities like refund-on-first-scan, support for deferred replacements, hand-to-hand exchange options, and offering customers flexible pickup time slots. These features aimed to increase return convenience and reduce refund-related escalations.   
-**Role:** As the Quality Assurance Manager, I was responsible for planning and executing all quality management-related activities, including defining the quality management plan, test strategy, and automation roadmap. I led a cross-functional team comprising QA engineers, SDETs, and DevOps resources, while also coordinating with product managers, carrier integration teams, and platform engineering groups. The project followed Agile methodologies, primarily using Scrum.  **Responsibilities/Deliverables**  
+**Role:** As the Quality Assurance Manager, I was responsible for planning and executing all quality management-related activities, including defining the quality management plan, test strategy, and automation roadmap. I led a cross-functional team comprising QA engineers, SDETs, and DevOps resources, while also coordinating with product managers, carrier integration teams, and platform engineering groups. The project followed Agile methodologies, primarily using Scrum.  
+
+**Responsibilities/Deliverables**  
 **Initiation:** Collaborated with the Product Owner and Business Analysts to understand project goals, quality expectations, and high-level requirements. I facilitated stakeholder engagement meetings to identify quality-related risks and constraints. Developed a high-level quality management framework aligned with organizational process assets and Agile best practices.  
 **Planning:**  Created the Quality Management Plan, Testing Strategy, and Test Automation Strategy. Defined the Definition of Done (DoD) and Acceptance Criteria in collaboration with product managers. Participated in backlog grooming sessions to estimate testing efforts using story points. Identified quality metrics and integrated them into the project reporting cadence. Scheduled sprint-based test activities and aligned resources to avoid sprint bottlenecks. Resource assignment, risk mitigation planning, and sprint-wise planning were performed in collaboration with Scrum Masters.  
 **Execution:** Led quality activities during each sprint, ensuring test case development, test automation, and integration tests were completed and reviewed. Facilitated continuous integration testing through CI/CD pipelines. Coordinated with platform development teams to manage dependencies and ensured cross-platform test coverage. Provided ongoing coaching to team members and ensured adherence to Agile testing best practices.  
 **Monitoring & Control:** Tracked sprint progress using JIRA, monitored quality KPIs, and generated burn-down charts. Conducted regular defect triage meetings and implemented root cause analysis for recurring defects. Monitored test automation coverage and test environment stability. Used velocity trends, defect density, and earned value analysis (EVA) to measure QA performance and sprint outcomes.  
 **Closure:** Validated that all acceptance criteria and DoD were met. Facilitated sprint retrospectives to capture lessons learned. Delivered final QA sign-off and provided inputs for post-implementation review. Archived test cases, automation scripts, and quality metrics into organizational process assets for future reuse.  
-**Outcome:** Successfully integrated three new third-party carriers, increasing MFN return pickup PIN code coverage from 94% to 99.8%. Refund-on-first-scan improved by 13%, while deferred replacements and hand-to-hand exchanges were enabled across all applicable PIN codes. The project helped reduce customer return-refund escalations by 190 basis points, significantly improving customer satisfaction and operational efficiency.
 
-
-
-
-
-
-
-
-
-
-
+**Outcome:** Successfully integrated three new third-party carriers, increasing MFN return pickup PIN code coverage from 94% to 99.8%. Refund-on-first-scan improved by 13%, while deferred replacements and hand-to-hand exchanges were enabled across all applicable PIN codes. The project helped reduce customer return-refund escalations by 190 basis points, significantly improving customer satisfaction and operational efficiency.  
