@@ -22,10 +22,11 @@ author: Dhruba Jyoti Talukdar
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    #- Beautiful Jekyll: "https://beautifuljekyll.com"
+    #- Learn markdown: "https://www.markdowntutorial.com/"
     - System Design : "https://dt39114.github.io/2025-08-04-system-design/"
-  Author's home: "https://deanattali.com"
+    - Project Management : "https://dt39114.github.io/2025-08-03-project-management/" 
+  #Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
