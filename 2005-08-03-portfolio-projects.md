@@ -61,16 +61,18 @@ Project duration: 12 months_
 ## **Project Description**    
 **Objective:**  The objective of this project was to develop a Lead Origination System for the Used Car Loan business by extending capabilities of the in-house platform and decommissioning the third-party license-based application. The initiative aimed to reduce recurring operational costs, streamline sales-to-disbursement workflows, and ensure regulatory compliance, while delivering improved business process efficiency.  
 **Role:** I served as the Project Manager with full accountability for end-to-end delivery of the solution, ensuring 100% user adoption by the sales team. I led a cross-functional team comprising developers, QA engineers, UX designers, DevOps, and data specialists. I was responsible for aligning stakeholder expectations, managing platform dependencies, overseeing integration with internal systems and third-party vendors, and ensuring timely delivery and compliance adherence.   
+
 **Responsibilities/Deliverables:**  
-_**Initiation:**_ Created the project charter, defined the scope, and developed the business case in collaboration with business and IT stakeholders. Identified key stakeholders including Sales, Credit, Policy, Operations, and executive leadership (COO, CTO). Conducted feasibility analysis and initiated risk assessments. Established the requirement traceability matrix (RTM) and high-level milestone plan.  
-_**Planning:**_ Developed the project management plan including scope baseline, cost baseline, schedule, and resource management plans. Defined the Work Breakdown Structure (WBS) for enhancements to Sales Central, Policy Engine, Credit Central, and other internal systems. Created detailed integration plans for third-party platforms including e-sign, KYC, Bank Verification, and Document Storage. Established change control board (CCB), risk register, and procurement plan for license decommissioning. Used Microsoft Project for schedule development and resource allocation.   
-_**Execution:**_  
+**Initiation:** Created the project charter, defined the scope, and developed the business case in collaboration with business and IT stakeholders. Identified key stakeholders including Sales, Credit, Policy, Operations, and executive leadership (COO, CTO). Conducted feasibility analysis and initiated risk assessments. Established the requirement traceability matrix (RTM) and high-level milestone plan.  
+**Planning:** Developed the project management plan including scope baseline, cost baseline, schedule, and resource management plans. Defined the Work Breakdown Structure (WBS) for enhancements to Sales Central, Policy Engine, Credit Central, and other internal systems. Created detailed integration plans for third-party platforms including e-sign, KYC, Bank Verification, and Document Storage. Established change control board (CCB), risk register, and procurement plan for license decommissioning. Used Microsoft Project for schedule development and resource allocation.   
+**Execution:**  
 Directed cross-functional execution of workflows under predictive life cycle with defined phase gates. Supervised implementation of used car loan modules across Sales Central, Credit Central, and Operations Central. Facilitated integration with machine learning models and NoSQL migration activities. Coordinated with vendor teams for platform interfaces and with InfoSec for compliance validation. Managed communication with stakeholders through status reports and steering committee reviews.  
-_**Monitoring & Control:**_  
+**Monitoring & Control:**    
 Monitored progress using earned value analysis (EVA), variance analysis, and schedule performance index (SPI). Updated the risk register regularly and implemented mitigation strategies. Managed change requests through the change control board and ensured strict scope control. Conducted quality reviews and milestone tracking to ensure adherence to baselines.  
-_**Closure:**_  
+**Closure:**  
 Facilitated UAT, obtained formal acceptance from stakeholders, and executed final deployment. Ensured migration of legacy data to new architecture and completed decommissioning of the third-party system. Conducted stakeholder training and adoption sessions to ensure seamless transition. Captured lessons learned and submitted the final project report.  
-_**Outcome:**_  Successfully delivered a fully integrated Lead Origination System for the Used Car Loan business within the planned 12-month timeline. Achieved ~$3M in annual recurring cost savings through license decommissioning. Improved lead-to-login, login-to-sanction, and sanction-to-disbursement cycle times. The platform adoption exceeded 98% across sales teams and met all compliance and performance benchmarks.  
+
+**Outcome:**  Successfully delivered a fully integrated Lead Origination System for the Used Car Loan business within the planned 12-month timeline. Achieved ~$3M in annual recurring cost savings through license decommissioning. Improved lead-to-login, login-to-sanction, and sanction-to-disbursement cycle times. The platform adoption exceeded 98% across sales teams and met all compliance and performance benchmarks.  
 
 # Project Name:  API-based lead submission by channel partners  
 _Organization: Piramal Finance Limited  
@@ -86,17 +88,19 @@ Project duration: 5 months_
 The objective of this project was to deliver an API-based integration capability that allowed external corporate channel partners to directly create and update leads within Piramal Finance’s internal Lead Origination System for used car loans. This initiative aimed to reduce lead onboarding time, improve operational efficiency, and unlock 40% additional YoY business growth through seamless partner collaboration.  
 **Role:**  
 As the Project Manager, I was accountable for end-to-end delivery of the API platform, including onboarding four major corporate partners. I led a cross-functional team comprising developers, QA, DevOps, and UX designers, and managed integration and compliance dependencies across internal systems and partner platforms. I ensured stakeholder alignment, timely delivery, and API adoption across all partner teams.   
+
 **Responsibilities/Deliverables:**  
-_**Initiation:**_  
+**Initiation:**  
 Collaborated with business and technical stakeholders to define the product vision and business case. Conducted stakeholder analysis and created an initial roadmap and API integration approach. Facilitated alignment between internal teams and external partner engineering leads. Created a project charter and established high-level goals, constraints, and success metrics.  
-_**Planning:**_  
+**Planning:**   
 Created and prioritized the product backlog in coordination with the product manager and solution architects. Facilitated sprint planning sessions and defined the minimum viable product (MVP) scope. Developed the release plan, integration strategy, and partner onboarding timeline. Identified key risks (e.g., security compliance, API contract variations), documented mitigation plans in the risk register, and established a communication plan for partner coordination.  
-_**Execution:**_  
+**Execution:**    
 Led daily stand-ups and sprint execution using Agile Scrum methodology via JIRA. Oversaw the development of four partner-compatible APIs and enhancements to two internal applications (Sales Central and Operations Central). Coordinated with InfoSec for security validation and with partner engineering teams for sandbox testing. Managed backlog refinement, sprint reviews, and release readiness assessments.  
-_**Monitoring & Control:**_  
+**Monitoring & Control:**  
 Used velocity and burn-down charts to monitor sprint progress and delivery confidence. Continuously updated the risk register and addressed scope adjustments via backlog reprioritization. Managed dependencies and integration timelines with external partners and internal DevOps. Ensured quality assurance through integrated performance and load testing.  
-_**Closure:**_  
+**Closure:**  
 Conducted final UAT with partner engineering teams and completed production deployment. Facilitated knowledge transfer sessions for support teams and ensured API documentation was published in the developer portal. Obtained stakeholder sign-off, captured lessons learned during retrospectives, and closed out the backlog items and project tasks.  
+
 **Outcome:**  
  Successfully delivered a secure and scalable API solution within the 3-month timeline. Enabled all four identified corporate partners to directly originate and manage used car loan applications through the APIs. Resulted in ~$610K in incremental sales volume within the first month post-launch, with projected growth of 10–12% QoQ. The platform significantly improved partner experience and internal efficiency across sales and operations workflows.  
 
@@ -117,6 +121,7 @@ Project duration: 6 months_
 **Monitoring & Control:** Tracked sprint progress using JIRA, monitored quality KPIs, and generated burn-down charts. Conducted regular defect triage meetings and implemented root cause analysis for recurring defects. Monitored test automation coverage and test environment stability. Used velocity trends, defect density, and earned value analysis (EVA) to measure QA performance and sprint outcomes.  
 **Closure:** Validated that all acceptance criteria and DoD were met. Facilitated sprint retrospectives to capture lessons learned. Delivered final QA sign-off and provided inputs for post-implementation review. Archived test cases, automation scripts, and quality metrics into organizational process assets for future reuse.  
 **Outcome:** Successfully integrated three new third-party carriers, increasing MFN return pickup PIN code coverage from 94% to 99.8%. Refund-on-first-scan improved by 13%, while deferred replacements and hand-to-hand exchanges were enabled across all applicable PIN codes. The project helped reduce customer return-refund escalations by 190 basis points, significantly improving customer satisfaction and operational efficiency.
+
 
 
 
