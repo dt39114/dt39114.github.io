@@ -21,6 +21,7 @@ author: Dhruba Jyoti Talukdar
 
 navbar-links:
   About Me: "aboutme"
+  Project Portfolio: "2005-08-03-portfolio-projects" 
   Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
